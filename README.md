@@ -8,12 +8,12 @@ BruteGenV1.0 is a Password Generation Script that combines different values ente
 3. apt install git
 4. git clone https://github.com/paradox-kyuu/BruteGen/
 5. cd BruteGen-V1.0
-6. pip3 install -r requirements.txt 
-OR (IF IT DID NOT WORK) 
-Install pip requirements manually:
-pip3 install colorama
-pip3 install pyfiglet
-pip3 install rich
+6. pip3 install -r requirements.txt <br/>
+OR (IF IT DID NOT WORK) <br/>
+Install pip requirements manually:<br/>
+pip3 install colorama<br/>
+pip3 install pyfiglet<br/>
+pip3 install rich<br/>
 7. ls
 8. python3 BruteGen.py
 9. Once saved successfully
