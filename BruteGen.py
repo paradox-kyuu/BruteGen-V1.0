@@ -19,7 +19,7 @@ def banner():
     print(ran + "\t\t        V_1.0\t\n\n")
     print(Style.BRIGHT + Fore.LIGHTYELLOW_EX, "\n\t    ", "- " * 3, "BY PARADOX-KYUU ", "- " * 3)
     print(Style.BRIGHT + Fore.LIGHTCYAN_EX, "\n", "- " * 3, " Github: https://github.com/paradox-kyuu ", "- " * 3)
-    print(Style.BRIGHT + Fore.LIGHTMAGENTA_EX, "\n [!] BruteGenV1.0 is a Password Generation Script that combines different values entered by user and saves it to a .txt file. [!]")
+    print(Style.BRIGHT + Fore.LIGHTMAGENTA_EX, "\n [!] BruteGenV1.0 is a Password Generation Script that compiles different passwords to be bruteforced and saves it to a .txt file. [!]")
    
     
 
