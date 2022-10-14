@@ -1,6 +1,6 @@
 # BRUTEGENV1.0
 
-BruteGenV1.0 is a Password Generation Script coded in Python that compiles different values entered by user and saves it to a .txt file.
+BruteGenV1.0 is a Password Generation Script coded in Python that compiles different passwords to be bruteforced and saves it to a .txt file.
 
 # Installation in Kali Linux
 
