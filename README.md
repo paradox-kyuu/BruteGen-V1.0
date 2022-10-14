@@ -7,7 +7,7 @@ BruteGenV1.0 is a Password Generation Script that combines different values ente
 2. apt install cat
 3. apt install git
 4. git clone https://github.com/paradox-kyuu/BruteGen/
-5. cd BruteGen
+5. cd BruteGen-V1.0
 6. pip3 install -r requirements.txt 
 OR (IF IT DID NOT WORK) 
 Install pip requirements manually:
