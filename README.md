@@ -22,9 +22,9 @@ pip3 install rich<br/>
 4. Follow instructions!
 
 # Help
-If you are facing any issue with BRUTEGEN! Report it at https://github.com/paradox-kyuu/BruteGen/
+If you are facing any issue with BRUTEGEN! Report it at https://github.com/paradox-kyuu/BruteGen-V1.0/issues!
 
 
-# CREATORS
-Made by : <href src="https://github.com/paradox-kyuu/BruteGen/">paradox_kyuu</href>
-Special thanks to : href src="https://github.com/Cyber-Dioxide/ ">Cyber_Dioxide</href> 
+# CREATOR
+Made by : <a href target="https://github.com/paradox-kyuu/BruteGen/">paradox_kyuu</a><br>
+Special thanks to : <a href target="https://github.com/Cyber-Dioxide/ ">Cyber_Dioxide</a> 
