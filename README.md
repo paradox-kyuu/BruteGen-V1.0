@@ -40,5 +40,5 @@ If you are facing any issue with BRUTEGEN! Report it at https://github.com/parad
 
 
 # CREATOR
-Made by : <a href target="https://github.com/paradox-kyuu/BruteGen/">paradox_kyuu</a><br>
-Special thanks to : <a href target="https://github.com/Cyber-Dioxide/ ">Cyber_Dioxide</a> 
+Made by : [Paradox-Kyuu](https://github.com/paradox-kyuu/) <br>
+Special thanks to : [Cyber_Dioxide](https://github.com/Cyber-Dioxide/)
